@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Grace, a senior at Barnard College studying Computer Science and English. My research interests lie at the intersection of NLP, AI, and HCI. I primarily focus on building system that explore user interactions to improve science commmunication, creative thinking, and productive struggle.
+I'm Grace, a senior at Barnard College studying Computer Science and English. My research interests lie at the intersection of NLP, AI, and HCI. I primarily focus on building systems that explore user interactions to improve science commmunication, creative thinking, and productive struggle. I will be an incoming Ph.D Student at UChicago this Fall working with Professor Mina Lee on Human-AI collaboration and writing support tools.
 
 <!--
 **graceli458/graceli458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
